@@ -51,19 +51,22 @@
      .tags .relationships a
      {
       background-color: #015AB9;
-     }```
+     }
+     ```
    - characters（角色）：
      ```
      .tags .characters a
      {
       background-color: #009191;
-     }```
+     }
+     ```
    - additional tags（其他tag）：
      ```
      .tags .freeforms a
      {
       background-color: #06982D;
-     }```
+     }
+     ```
 
 ### 5. 提交：
 
